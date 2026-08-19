@@ -22,3 +22,7 @@ dsh plugin add github:uckkk/dsh-paper-sizes
 ```bash
 dsh plugin add github:uckkk/dsh-paper-sizes
 ```
+
+## 使用
+
+安装后在会话中调用该插件注册的工具即可。
